@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="SerialPort_test">
+    </qresource>
+</RCC>
